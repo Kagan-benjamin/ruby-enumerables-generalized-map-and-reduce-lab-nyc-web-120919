@@ -12,4 +12,5 @@ def reduce(source_array, starting_value=0)
   if starting_value
     total = starting_value
     i = 0 
+  else 
 end
