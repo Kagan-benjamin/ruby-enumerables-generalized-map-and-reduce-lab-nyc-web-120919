@@ -13,5 +13,6 @@ def reduce(source_array, starting_value=0)
     total = starting_value
     i = 0 
   else 
-    total = source_array[0] 
+    total = source_array[0]
+    i = 1 
 end
