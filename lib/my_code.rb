@@ -5,5 +5,6 @@ def my_own_map(source_array)
   new_array << yield(source_array[i])
   i += 1 
   end
+  new_array
 end
   
