@@ -18,4 +18,5 @@ def reduce(source_array, starting_value=0)
   end
   while i < source_array.length do 
     
+    
 end
